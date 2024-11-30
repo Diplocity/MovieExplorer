@@ -1,0 +1,17 @@
+[theme]
+# Define primary color for the app
+primaryColor = "#4CAF50"  # A fresh green for highlights, buttons, etc.
+
+# Background color of the entire app
+backgroundColor = "#FFFFFF"  # White background for a clean look
+
+# Color of the secondary background (used for containers, sidebars, etc.)
+secondaryBackgroundColor = "#F5F5F5"  # Light gray for better contrast
+
+# Text color (good contrast with background)
+textColor = "#333333"  # Dark gray text for readability
+
+# Font to use (either 'sans serif', 'serif', or 'monospace')
+font = "sans serif"  # Modern sans serif font for clarity and style
+
+# Optional: You can add more customization if needed, like a custom font or border color.
